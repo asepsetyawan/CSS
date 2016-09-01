@@ -96,7 +96,7 @@ Finally, properties are what give the selected elements of a rule declaration th
 
 ### Comments
 
-* Prefer line comments (`//` in Sass-land) to block comments.
+* Prefer line comments (`//` in LESS-land) to block comments.
 * Prefer comments on their own line. Avoid end-of-line comments.
 * Write detailed comments for code that isn't self-documenting:
   - Uses of z-index
