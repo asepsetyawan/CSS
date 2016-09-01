@@ -1,6 +1,6 @@
-# Airbnb CSS / Sass Styleguide
+# Arsitag CSS / LESS Styleguide
 
-*A mostly reasonable approach to CSS and Sass*
+*A mostly reasonable approach to CSS and LESS*
 
 ## Table of Contents
 
